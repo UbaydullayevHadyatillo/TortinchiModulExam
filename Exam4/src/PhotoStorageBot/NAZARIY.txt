@@ -1,0 +1,12 @@
+1.
+heap hotirada joylashadi .net ishga tushganda operatsion tizmda ram nign bir qismini ajrat oladi shu ajratlgan ram Ichida soh joylashgan boladi
+hajmi kichik bolgan abektlar saqlanadigan hotea qismi
+xotirani yaxshi boshqarish un kerak soh generatsiyasi 0 1 2 tizimida ishlaydi
+garbage callectorga yangi obekt tekshirish orqali vaqtni tejaydi
+soh hotira tozalangandan keyn qolgan abektlar bir joyga zichlashtiriladi va xotirada bosh joylar kamayadi 
+
+2. bu interface fayllarni qolda boshatish un ishlatiladi
+
+3. ref va out kalit soz value tayp  malumotlarni reference orqali uzatish un ishlatiladsi ularni ita asosiy farqi bor 
+ref ishlatilganda ozgaruvchini metodga yuborshdan unga qiymat berilishi 
+out metod Ichida outga metod tugashidan oldin bersh shat
